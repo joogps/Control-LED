@@ -1,0 +1,15 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "server.js"
+  },
+  "author": "João Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "rpi-gpio": "^2.1.3",
+    "socket.io": "^2.2.0"
+  }
+}
