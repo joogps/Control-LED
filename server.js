@@ -16,7 +16,7 @@ gpio.setMode(gpio.MODE_BCM);
 gpio.setup(4, gpio.DIR_OUT);
 
 io.sockets.on('connection', function(socket) {
-	console.log('Connected');
+	console.log('Client connected');
 
 	socket.on('on', function() {
 		gpio.write(4, true);
