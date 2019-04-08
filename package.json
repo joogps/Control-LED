@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "server.js"
+    "start": "node server.js"
   },
   "author": "João Gabriel",
   "license": "ISC",
