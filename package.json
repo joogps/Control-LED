@@ -1,5 +1,5 @@
 {
-  "name": "web-server",
+  "name": "control-led",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
